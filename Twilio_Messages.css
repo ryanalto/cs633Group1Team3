@@ -1,0 +1,97 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_54 */
+#Twilio_Messages_mobilebutton_54 {
+
+}
+.ui-btn.Twilio_Messages_mobilebutton_54 {
+
+}
+/* mobilecontainer1 */
+.ui-content.Twilio_Messages_mobilecontainer1 {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilelist_39 */
+.ui-page .Twilio_Messages_mobilelist_39 {
+	margin: 4px 0px 0px 0px;
+}
+/* smsList */
+.ui-mobile-viewport ul[data-role="listview"] li.Twilio_Messages_smsList {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Twilio_Messages_smsList .ui-li-static-container {
+	padding: 4px 4px 4px 10px;
+	padding-right: 14px;
+	padding-left: 10px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Twilio_Messages_smsList.ui-icon-none .ui-li-static-container {
+	padding-right: 4px; /* consider nothing */
+}
+/* mobilelistitembutton_41 */
+.Twilio_Messages_mobilelistitembutton_41 {
+
+}
+/* to */
+.Twilio_Messages_to {
+	text-decoration: none; font-weight: normal; text-align: left; font-family: Helvetica; font-size: 14px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* from */
+.Twilio_Messages_from {
+	text-decoration: none; font-weight: normal; text-align: left; font-family: Helvetica; font-size: 14px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* body */
+.Twilio_Messages_body {
+	text-decoration: none; font-weight: normal; text-align: left; font-family: Helvetica; font-size: 14px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* sentOn */
+.Twilio_Messages_sentOn {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 12px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilefooter */
+.Twilio_Messages_mobilefooter {
+	min-height:38px;
+}
+/* panel_46 */
+.Twilio_Messages_panel_46 .ui-panel-inner {
+	padding: 0px 15px 15px 15px;
+}
+.Twilio_Messages_panel_46:focus {
+	outline: 0;
+}
+/* mobilelist_47 */
+.ui-page .Twilio_Messages_mobilelist_47 {
+	margin: 4px -15px 0px -15px;
+}
+/* mobilelistitem_48 */
+/* mobilelistitembutton_49 */
+.Twilio_Messages_mobilelistitembutton_49 {
+
+}
+/* mobilelistitem_50 */
+/* mobilelistitembutton_51 */
+.Twilio_Messages_mobilelistitembutton_51 {
+
+}
+/* mobilelistitem_55 */
+/* mobilelistitembutton_56 */
+.Twilio_Messages_mobilelistitembutton_56 {
+
+}

@@ -1,0 +1,187 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* invite_friends */
+#startPage_invite_friends {
+
+}
+.ui-btn.startPage_invite_friends {
+
+}
+/* show_my_location */
+#startPage_show_my_location {
+
+}
+.ui-btn.startPage_show_my_location {
+
+}
+/* mobilecontainer */
+.ui-content.startPage_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* google_map */
+.startPage_google_map {
+	width: 320px; height: 300px;
+	margin: 4px 0px 4px 0px;
+}
+/* marker_3 */
+.startPage_marker_3 {
+	text-shadow:none;
+	color:black;
+	font-family:Arial;
+}
+/* from */
+.startPage_from {
+	margin: 4px 0px 4px 0px;
+}
+/* to */
+.startPage_to {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilelist_12 */
+.ui-page .startPage_mobilelist_12 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_31 */
+.ui-mobile-viewport ul[data-role="listview"] li.startPage_mobilelistitem_31 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.startPage_mobilelistitem_31 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 10px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.startPage_mobilelistitem_31.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilegrid_19 */
+.startPage_mobilegrid_19 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.startPage_mobilegrid_19_wrapper {
+
+}
+.startPage_mobilegrid_19 > tr > td {
+	vertical-align: top;
+}
+.startPage_mobilegrid_19_row_0, .startPage_mobilegrid_19_row_0 > td {
+	height: 30px
+}
+/* mobilegridcell_20 */
+.startPage_mobilegridcell_20 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startPage_mobilegridcell_20 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* show_directions */
+#startPage_show_directions {
+
+}
+.ui-btn.startPage_show_directions {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilegridcell_21 */
+.startPage_mobilegridcell_21 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startPage_mobilegridcell_21 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* show_traffic */
+#startPage_show_traffic {
+
+}
+.ui-btn.startPage_show_traffic {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilegridcell_26 */
+.startPage_mobilegridcell_26 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startPage_mobilegridcell_26 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* get_markers */
+#startPage_get_markers {
+
+}
+.ui-btn.startPage_get_markers {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilelistitembutton_32 */
+.startPage_mobilelistitembutton_32 {
+
+}
+/* mobilelist_33 */
+.ui-page .startPage_mobilelist_33 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_34 */
+.ui-mobile-viewport ul[data-role="listview"] li.startPage_mobilelistitem_34 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.startPage_mobilelistitem_34 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 10px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.startPage_mobilelistitem_34.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilelistitembutton_35 */
+.startPage_mobilelistitembutton_35 {
+
+}
+/* park_name */
+.startPage_park_name {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* takephoto */
+#startPage_takephoto {
+
+}
+.ui-btn.startPage_takephoto {
+	margin: 4px 5px 4px 5px;
+}
+/* photopreview */
+.startPage_photopreview {
+	margin: 4px 0px 4px 0px;
+	width: 350px; height: 450px;
+	display: block;
+}
+/* mobilefooter */
+.startPage_mobilefooter {
+	min-height:38px;
+}
+/* mobilebutton_4 */
+#startPage_mobilebutton_4 {
+
+}
+.ui-btn.startPage_mobilebutton_4 {
+	margin: 4px 5px 4px 5px;
+}

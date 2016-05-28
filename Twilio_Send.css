@@ -1,0 +1,183 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_29 */
+#Twilio_Send_mobilebutton_29 {
+
+}
+.ui-btn.Twilio_Send_mobilebutton_29 {
+
+}
+/* mobilecontainer1 */
+.ui-content.Twilio_Send_mobilecontainer1 {
+	padding: 15px 15px 15px 15px;
+}
+/* sendSmsTo */
+.Twilio_Send_sendSmsTo {
+	margin: 0px 0px 0px 0px;
+}
+/* sendSmsContent */
+.Twilio_Send_sendSmsContent {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_13 */
+#Twilio_Send_mobilebutton_13 {
+
+}
+.ui-btn.Twilio_Send_mobilebutton_13 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_137 */
+.Twilio_Send_mobiletextinput_137 {
+	margin: 4px 0px 4px 0px;
+}
+/* search_contacts */
+#Twilio_Send_search_contacts {
+
+}
+.ui-btn.Twilio_Send_search_contacts {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilelist_121 */
+.ui-page .Twilio_Send_mobilelist_121 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_122 */
+.ui-mobile-viewport ul[data-role="listview"] li.Twilio_Send_mobilelistitem_122 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Twilio_Send_mobilelistitem_122 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.Twilio_Send_mobilelistitem_122.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* mobilelistitembutton_123 */
+.Twilio_Send_mobilelistitembutton_123 {
+
+}
+/* mobilegrid_128 */
+.Twilio_Send_mobilegrid_128 {
+	height: auto;
+	width:100%;
+	margin: 4px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.Twilio_Send_mobilegrid_128_wrapper {
+
+}
+.Twilio_Send_mobilegrid_128 > tr > td {
+	vertical-align: top;
+}
+.Twilio_Send_mobilegrid_128_row_0, .Twilio_Send_mobilegrid_128_row_0 > td {
+	height: 30px
+}
+.Twilio_Send_mobilegrid_128_row_1, .Twilio_Send_mobilegrid_128_row_1 > td {
+	height: 30px
+}
+/* mobilegridcell_129 */
+.Twilio_Send_mobilegridcell_129 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Twilio_Send_mobilegridcell_129 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_133 */
+.Twilio_Send_mobilelabel_133 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_130 */
+.Twilio_Send_mobilegridcell_130 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Twilio_Send_mobilegridcell_130 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* contact_name1 */
+.Twilio_Send_contact_name1 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_131 */
+.Twilio_Send_mobilegridcell_131 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Twilio_Send_mobilegridcell_131 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_134 */
+.Twilio_Send_mobilelabel_134 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_132 */
+.Twilio_Send_mobilegridcell_132 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.Twilio_Send_mobilegridcell_132 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* phone_number1 */
+.Twilio_Send_phone_number1 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilefooter */
+.Twilio_Send_mobilefooter {
+	min-height:38px;
+}
+/* panel_19 */
+.Twilio_Send_panel_19 .ui-panel-inner {
+	padding: 0px 15px 15px 15px;
+}
+.Twilio_Send_panel_19:focus {
+	outline: 0;
+}
+/* mobilelist_20 */
+.ui-page .Twilio_Send_mobilelist_20 {
+	margin: 4px -15px 0px -15px;
+}
+/* mobilelistitem_21 */
+/* mobilelistitembutton_22 */
+.Twilio_Send_mobilelistitembutton_22 {
+
+}
+/* mobilelistitem_27 */
+/* mobilelistitembutton_28 */
+.Twilio_Send_mobilelistitembutton_28 {
+
+}
+/* home_page */
+/* mobilelistitembutton_57 */
+.Twilio_Send_mobilelistitembutton_57 {
+
+}
