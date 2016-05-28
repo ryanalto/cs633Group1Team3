@@ -1,0 +1,76 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_12 */
+#updateDB_page_mobilebutton_12 {
+
+}
+.ui-btn.updateDB_page_mobilebutton_12 {
+
+}
+/* logout_button */
+#updateDB_page_logout_button {
+
+}
+.ui-btn.updateDB_page_logout_button {
+
+}
+/* mobilecontainer */
+.ui-content.updateDB_page_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* input_dogpark */
+.updateDB_page_input_dogpark {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_4 */
+#updateDB_page_mobilebutton_4 {
+
+}
+.ui-btn.updateDB_page_mobilebutton_4 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilelist_13 */
+.ui-page .updateDB_page_mobilelist_13 {
+	margin: 4px 0px 0px 0px;
+}
+/* mobilelistitem_14 */
+.ui-mobile-viewport ul[data-role="listview"] li.updateDB_page_mobilelistitem_14 {
+	padding: 0;
+	margin: 0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.updateDB_page_mobilelistitem_14 .ui-li-static-container {
+	padding: 0px 0px 4px 0px;
+	padding-right: 41px;
+	padding-left: 0px;
+	min-height: 1em;
+	border-width:0;
+}
+.ui-mobile-viewport ul[data-role="listview"] li.updateDB_page_mobilelistitem_14.ui-icon-none .ui-li-static-container {
+	padding-right: 0px; /* consider nothing */
+}
+/* dogpark_name */
+.updateDB_page_dogpark_name {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilelistitembutton_15 */
+.updateDB_page_mobilelistitembutton_15 {
+
+}
+/* task_id */
+.updateDB_page_task_id {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	display: none;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilefooter */
+.updateDB_page_mobilefooter {
+	min-height:38px;
+}
